@@ -1,0 +1,367 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5CS56KM');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Artium Soluções | Tecnologia para Simplificar a Gestão de Negócios</title>
+  <meta name="description" content="Desenvolvemos soluções baseadas em Tecnologia da Informação para impulsionar sua produtividade e inovar a gestão da sua empresa.">
+  <meta name="author" content="Agência Small" />
+  <meta name="csrf-token" content="1a5035d51f468649647ee6c9030904df" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- ========== Favicon Icon ========== -->
+  <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png">
+  <!-- App WhatsAp -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/vendor.css" />
+  <!-- Fim - App WhatsAp -->
+  <!-- CSS here -->
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/css/animate.min.css">
+  <link rel="stylesheet" href="/assets/css/magnific-popup.css">
+  <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/assets/css/themify-icons.css">
+  <link rel="stylesheet" href="/assets/css/meanmenu.css">
+  <link rel="stylesheet" href="/assets/css/slick.css">  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/responsive.css">
+  <!-- **Font Awesome** -->
+  <link rel="stylesheet" type="text/css" href="/assets/fonts/fontawesome/css/font-awesome.min.css" />
+  <script src="https://www.google.com/recaptcha/api.js" async ></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CS56KM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- header-start -->
+<header>
+    <div class="header-top-a011 - 2305.5615rea grey-bg d-none d-md-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-8 col-lg-8 col-md-6 d-flex align-items-center">
+                    <div class="header-info">
+                        <span><i class="far fa-map-marker-alt"> </i> Av. Paulista, 1636</span>
+                        <span class="header-ph"><i class="far fa-phone"> </i> <a href="tel:1123055615" target="_blank">(11) 2305-5615</a></span>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="header-right f-right "> 
+                        <div class="header-icon f-right">
+                          <a href="https://www.facebook.com/Artium-Solu%C3%A7%C3%B5es-e-Tecnologia-100616648157213/" title="Facebook - Artium Soluções" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                          <a href="https://www.linkedin.com/company/artium-solu%C3%A7%C3%B5es" title="LinkedIn - Artium Soluções" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="sticky-header" class="main-menu-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 d-flex align-items-center">
+                    <div class="logo">
+                        <a href="/"><img src="/assets/img/logo-artium.png" alt="Artium Soluções" title="Artium Soluções" /></a>
+                    </div>
+                    
+                </div>
+                <div class="col-xl-9 col-lg-9">
+                    <div class="header-button f-right d-none d-lg-block">
+                        <a class="btn" href="/contato" title="Contato"><span class="btn-text">Contato <i class="far fa-long-arrow-right"></i></span> </a>
+                    </div>
+                    <div class="main-menu text-right">
+                        <nav id="mobile-menu">
+                          <ul>
+                            <li><a href="/" title="Home">Home</a></li>
+                            <li><a href="/produtos" title="Produtos">Produtos</a></li>
+                            <li><a href="/servicos" title="Serviços">Serviços</a></li>
+                            <li><a href="/quem-somos" title="Quem Somos">Quem Somos</a></li>
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="mobile-menu"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- header-start -->
+<main>
+    <!-- breadcrumb-area-start -->
+    <div class="breadcrumb-area pt-230 pb-235" style="background-image:url(/assets/img/background/bg-404.png)">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-text text-center">
+                        <h1>Página de erro</h1>
+                        <ul class="breadcrumb-menu">
+                            <li><a href="/" title="Home">Home</a></li>
+                            <li><span>404</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumb-area-start -->
+    <!-- error-area-start -->
+    <div class="error-area pt-120  pr-55 pl-55 pb-220">
+        <div class="container">
+            <div class="content-box text-center">
+            <h1>404</h1>
+            <h2>Ops, esta página não foi encontrada!</h2>
+            <div class="text">A página que voc&ecirc; tentou acessar n&atilde;o existe ou foi removida.<br />
+                Acesse o menu novamente ou comece na nossa <a href="/" title="página inicial">página inicial</a>.</div>
+        </div>
+        </div>
+    </div>
+    <!-- error-area-end -->
+</main><!-- footer-area-start -->
+<footer>
+    <div class="footer-area grey-bg pt-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="footer-wrapper mb-30">
+                        <div class="footer-logo">
+                            <a href="/"><img src="/assets/img/logo-artium.png" alt="Artium Soluções" title="Artium Soluções"></a>
+                        </div>
+                        <div class="footer-text">
+                            <p>Muito mais do que softwares, entregamos inovação e melhoria contínua para as empresas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="footer-wrapper mb-30">
+                        <h4 class="footer-title">Contato</h4>
+                        <ul class="contact-link">
+                            <li>
+                                <div class="contact-address-icon">
+                                    <i class="far fa-phone"></i>
+                                </div>
+                                <div class="contact-address-text">
+                                    <h4><a href="tel:1123055615" target="_blank">(11) 2305-5615</a></h4>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="contact-address-icon">
+                                    <i class="far fa-map-marker-alt"></i>
+                                </div>
+                                <div class="contact-address-text">
+                                    <h4>Av. Paulista, 1636<br />
+                                        CJ. 4 - PAV. 15 - Cond. Paulista Corporate<br />
+                                        Cerqueira Cesar - São Paulo - SP</h4>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="footer-wrapper mb-30">
+                        <h4 class="footer-title">Links úteis</h4>
+                        <ul class="fotter-menu">
+                            <li><a href="/quem-somos" title="Quem Somos">Quem Somos</a></li>
+                            <li><a href="/produtos" title="Produtos">Produtos</a></li>
+                            <li><a href="/servicos" title="Serviços">Serviços</a></li>
+                            <li><a href="/contato" title="Contato">Contato</a></li>
+                            <li><a href="/POLITICA_DE_SEGURANCA_DA_INFORMACAO_E_PROTECAO_DE_DADOS_LGPD.pdf" title="LGPD">LGPD</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="footer-wrapper mb-30">
+                        <h4 class="footer-title">Redes Sociais</h4>
+                        <div class="footer-2-icon footer-4-icon">
+                          <a href="https://www.facebook.com/Artium-Solu%C3%A7%C3%B5es-e-Tecnologia-100616648157213/" title="Facebook - Artium Soluções" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                          <a href="https://www.linkedin.com/company/artium-solu%C3%A7%C3%B5es" title="LinkedIn - Artium Soluções" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom-area footer-3-bottom mt-50 pb-25 pt-25">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-8 col-lg-8 col-md-8">
+                        <div class="copyright">
+                            <p><i class="far fa-copyright"></i> Copyright © Artium Soluções - 2026 | Todos os direitos reservados.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4">
+                        <div class="footer-bottem-text text-md-right">
+                            <p><a href="https://www.agenciasmall.com.br" target="_blanK"><img class="icone-small" alt="Agência Small" title="Agência Small" src="/assets/img/icone_small.png" style="max-height: 35px;"></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer-area-end -->
+    <!-- API Whatsapp -->
+    <div class="icon-wpp-left">
+        <span class="pulse">
+            <a class="ccw-analytics" data-ccw="whats-flutuante" title="Whatsapp - Artium" href="https://api.whatsapp.com/send?phone=+5511997207765&amp;text=Olá!%20Gostaria%20de%20receber%20mais%20informações%20sobre%20as%20soluções%20da%20Artium." target="_blank"><i class="ccw-analytics fa fa-whatsapp" data-ccw="whats-flutuante"></i></a>
+        </span>
+    </div>
+<!-- JS here -->
+<script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/owl.carousel.min.js"></script>
+<script src="/assets/js/isotope.pkgd.min.js"></script>
+<script src="/assets/js/slick.min.js"></script>
+<script src="/assets/js/jquery.meanmenu.min.js"></script>
+<script src="/assets/js/wow.min.js"></script>
+<script src="/assets/js/jquery.easypiechart.min.js"></script>
+<script src="/assets/js/jquery.scrollUp.min.js"></script>
+<script src="/assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="/assets/js/waypoints.min.js"></script>
+<script src="/assets/js/jquery.counterup.min.js"></script>
+<script src="/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="/assets/js/plugins.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/assets/js/jquery.maskedinput.min.js"></script>
+<script src="/assets/js/jsplugins.js"></script>
+<script src="/assets/js/ajax-form.js"></script>
+<script id="gtm-jq-ajax-listen" type="text/javascript">
+ (function() {
+ 
+ 'use strict';
+ var $;
+ var n = 0;
+ init();
+ 
+ function init(n) {
+ 
+ // Ensure jQuery is available before anything
+ if (typeof jQuery !== 'undefined') {
+ 
+ // Define our $ shortcut locally
+ $ = jQuery;
+ bindToAjax();
+ 
+ // Check for up to 10 seconds
+ } else if (n < 20) {
+ 
+ n++;
+ setTimeout(init, 500);
+ 
+ }
+ 
+ }
+ 
+ function bindToAjax() {
+ 
+ $(document).bind('ajaxComplete', function(evt, jqXhr, opts) {
+ 
+ // Create a fake a element for magically simple URL parsing
+ var fullUrl = document.createElement('a');
+ fullUrl.href = opts.url;
+ 
+ // IE9+ strips the leading slash from a.pathname because who wants to get home on time Friday anyways
+ var pathname = fullUrl.pathname[0] === '/' ? fullUrl.pathname : '/' + fullUrl.pathname;
+ // Manually remove the leading question mark, if there is one
+ var queryString = fullUrl.search[0] === '?' ? fullUrl.search.slice(1) : fullUrl.search;
+ // Turn our params and headers into objects for easier reference
+ var queryParameters = objMap(queryString, '&', '=', true);
+ var headers = objMap(jqXhr.getAllResponseHeaders(), '\n', ':');
+ 
+ // Blindly push to the dataLayer because this fires within GTM
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+//dataLayer.push({
+ 'event': 'ajaxComplete',
+ 'attributes': {
+ // Return empty strings to prevent accidental inheritance of old data
+ 'type': opts.type || '',
+ 'url': fullUrl.href || '',
+ 'queryParameters': queryParameters,
+ 'pathname': pathname || '',
+ 'hostname': fullUrl.hostname || '',
+ 'protocol': fullUrl.protocol || '',
+ 'fragment': fullUrl.hash || '',
+ 'statusCode': jqXhr.status || '',
+ 'statusText': jqXhr.statusText || '',
+ 'headers': headers,
+ 'timestamp': evt.timeStamp || '',
+ 'contentType': opts.contentType || '',
+ // Defer to jQuery's handling of the response
+ 'response': (jqXhr.responseJSON || jqXhr.responseXML || jqXhr.responseText || '')
+ }
+ });
+ 
+ });
+ 
+ }
+ 
+ function objMap(data, delim, spl, decode) {
+ 
+ var obj = {};
+ 
+ // If one of our parameters is missing, return an empty object
+ if (!data || !delim || !spl) {
+ 
+ return {};
+ 
+ }
+ 
+ var arr = data.split(delim);
+ var i;
+ 
+ if (arr) {
+ 
+ for (i = 0; i < arr.length; i++) {
+ 
+ // If the decode flag is present, URL decode the set
+ var item = decode ? decodeURIComponent(arr[i]) : arr[i];
+ var pair = item.split(spl);
+ 
+ var key = trim_(pair[0]);
+ var value = trim_(pair[1]);
+ 
+ if (key && value) {
+ 
+ obj[key] = value;
+ 
+ }
+ 
+ }
+ 
+ }
+ 
+ return obj;
+ 
+ }
+ 
+ // Basic .trim() polyfill
+ function trim_(str) {
+ 
+ if (str) {
+ 
+ return str.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g, '');
+ 
+ }
+ 
+ }
+ 
+ 
+ })();
+ /*
+ * v0.1.0
+ * Created by the Google Analytics consultants at http://www.lunametrics.com
+ * Written by @notdanwilkerson
+ * Documentation: http://www.lunametrics.com/blog/2015/08/27/ajax-event-listener-google-tag-manager/
+ * Licensed under the Creative Commons 4.0 Attribution Public License
+ */
+</script>
+</body>
+</html>

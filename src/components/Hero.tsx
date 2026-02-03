@@ -1,0 +1,89 @@
+import { ArrowDown } from "lucide-react";
+import artiumLogo from "@/assets/artium-logo.png";
+
+const Hero = () => {
+  const scrollToForms = () => {
+    const formsSection = document.getElementById("formularios");
+    if (formsSection) {
+      formsSection.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
+  return (
+    <section className="relative min-h-screen flex items-center justify-center gradient-artium overflow-hidden">
+      {/* Decorative elements */}
+      <div className="absolute inset-0 overflow-hidden">
+        <div className="absolute top-20 left-10 w-64 h-64 bg-white/5 rounded-full blur-3xl" />
+        <div className="absolute bottom-20 right-10 w-96 h-96 bg-white/5 rounded-full blur-3xl" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-white/3 rounded-full blur-3xl" />
+      </div>
+
+      {/* Grid pattern overlay */}
+      <div 
+        className="absolute inset-0 opacity-10"
+        style={{
+          backgroundImage: `radial-gradient(circle at 1px 1px, rgba(255,255,255,0.3) 1px, transparent 0)`,
+          backgroundSize: '40px 40px'
+        }}
+      />
+
+      <div className="container relative z-10 px-4 md:px-6 py-20">
+        <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
+          {/* Logo */}
+          <div className="animate-fade-up mb-8">
+            <img 
+              src={artiumLogo} 
+              alt="Artium Soluções" 
+              className="h-16 md:h-20 w-auto brightness-0 invert"
+            />
+          </div>
+
+          {/* Title */}
+          <h1 className="animate-fade-up text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6 text-balance">
+            Indique talentos e oportunidades que{" "}
+            <span className="text-white/90">transformam negócios</span>
+          </h1>
+
+          {/* Subtitle */}
+          <p className="animate-fade-up-delay text-lg md:text-xl text-white/80 max-w-2xl mb-10 leading-relaxed">
+            Conecte pessoas e empresas à Artium Soluções e ajude a construir o futuro da tecnologia.
+          </p>
+
+          {/* CTA Button */}
+          <div className="animate-fade-up-delay flex flex-col sm:flex-row gap-4">
+            <button 
+              onClick={scrollToForms}
+              className="btn-artium-outline group"
+            >
+              Fazer uma indicação
+              <ArrowDown className="w-5 h-5 transition-transform group-hover:translate-y-1" />
+            </button>
+          </div>
+
+          {/* Stats or trust indicators */}
+          <div className="animate-fade-up-delay mt-16 grid grid-cols-3 gap-8 md:gap-16">
+            <div className="text-center">
+              <div className="text-3xl md:text-4xl font-bold text-white">10+</div>
+              <div className="text-sm text-white/60 mt-1">Anos de mercado</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl md:text-4xl font-bold text-white">100+</div>
+              <div className="text-sm text-white/60 mt-1">Projetos entregues</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl md:text-4xl font-bold text-white">50+</div>
+              <div className="text-sm text-white/60 mt-1">Clientes satisfeitos</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Scroll indicator */}
+      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+        <ArrowDown className="w-6 h-6 text-white/50" />
+      </div>
+    </section>
+  );
+};
+
+export default Hero;
