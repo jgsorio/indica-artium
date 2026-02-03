@@ -53,22 +53,6 @@ const Hero = () => {
               <ArrowDown className="w-5 h-5 transition-transform group-hover:translate-y-1" />
             </button>
           </div>
-
-          {/* Stats or trust indicators */}
-          <div className="animate-fade-up-delay mt-16 grid grid-cols-3 gap-8 md:gap-16">
-            <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-white">10+</div>
-              <div className="text-sm text-white/60 mt-1">Anos de mercado</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-white">100+</div>
-              <div className="text-sm text-white/60 mt-1">Projetos entregues</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-white">50+</div>
-              <div className="text-sm text-white/60 mt-1">Clientes satisfeitos</div>
-            </div>
-          </div>
         </div>
       </div>
 
